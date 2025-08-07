@@ -78,3 +78,6 @@ By using the Kai Module with a PlayMate® machine or any other third-party equip
 
 #### 18. Contact Us
 Questions? You can reach us at: info@ohanasports.net
+
+<br>
+<br>

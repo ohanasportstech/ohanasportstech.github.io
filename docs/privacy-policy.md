@@ -90,3 +90,6 @@ We may update this Privacy Policy to reflect changes in the law or our practices
 
 #### 11. Contact Us
 If you have questions or wish to exercise your privacy rights, contact:  info@ohanasports.net
+
+<br>
+<br>
