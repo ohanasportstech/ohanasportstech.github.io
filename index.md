@@ -1,8 +1,9 @@
 ---
 layout: home
+nav_exclude: true
 ---
 
-# Welcome to Ohana Sports Tech
+# Welcome
 
 ![Tennis player](/assets/images/serve.jpg)
 
