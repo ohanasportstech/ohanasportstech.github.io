@@ -1,0 +1,12 @@
+<header style="border-bottom: 1px solid #eee;">
+  <div class="wrapper" style="display: flex; align-items: center; justify-content: space-between; padding: 1.6rem 0rem 1rem 1.5rem;">
+    <a href="/" style="font-weight: bold; font-size: 1.4rem; text-decoration: none; color: inherit;">Ohana Sports Tech</a>
+    <nav style="display: flex; justify-content: flex-end; flex-grow: 1;">
+      {% for page in site.pages %}
+        {% unless page.nav_exclude %}
+          <a href="{{ page.url | relative_url }}" style="margin-right: .5rem; text-decoration: none; color: inherit;">{{ page.title }}</a>
+        {% endunless %}
+      {% endfor %}
+    </nav>
+  </div>
+</header>
