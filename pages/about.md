@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-permalink: /about/
+permalink: /pages/about/
 ---
 
 We’re Ohana Sports Tech — a family business founded by close friends who believe that sports training should be simple, effective, and most of all, fun.
