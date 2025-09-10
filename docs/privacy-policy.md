@@ -3,6 +3,7 @@ layout: page
 title: Ohana Sports Privacy Policy
 permalink: /docs/privacy-policy/
 nav_exclude: true
+canonical_url: https://www.ohanasports.net/docs/privacy-policy/
 ---
 
 **Effective Date:** July 2nd, 2025  
@@ -62,7 +63,7 @@ If you are a resident of the EEA, you have the right to:
 - Object to or restrict certain processing activities
 - File a complaint with your local data protection authority
 
-You can request any of the above by contacting us at [Insert Privacy Contact Email]. We will respond within 30 days.
+You can request any of the above by contacting us at support@ohanasports.net or by submitting a request via our [Data Deletion Request](/pages/data-deletion/) page. We will respond within 30 days.
 
 **b. CCPA/CPRA (California residents)**
 
@@ -71,7 +72,7 @@ If you are a California resident, you have the right to:
 - Request deletion of your data
 - Opt out of the sale or sharing of your personal data (we do neither)
 
-To exercise your rights, email us at [Insert Privacy Contact Email] with “California Privacy Request” in the subject line.
+To exercise your rights, email us at support@ohanasports.net with “California Privacy Request” in the subject line. You may also submit a deletion request via our [Data Deletion Request](/pages/data-deletion/) page.
 
 #### 6. Data Retention
 We retain anonymized usage and diagnostic data for as long as needed to provide and improve the Services, unless otherwise required by law or legal obligation.
@@ -86,7 +87,7 @@ Our Services are not intended for children under 13. We do not knowingly collect
 When you create an account and use the App, you confirm that you have read and agree to both this Privacy Policy and our Terms of Use. You will be presented with a clear notice and link during the account creation process.
 
 #### 10. Changes to This Policy
-We may update this Privacy Policy to reflect changes in the law or our practices. We will notify you through the App or other appropriate channels. The most current version will always be available at [Insert Website or App URL].
+We may update this Privacy Policy to reflect changes in the law or our practices. We will notify you through the App or other appropriate channels. The most current version will always be available at https://www.ohanasports.net/docs/privacy-policy/.
 
 #### 11. Contact Us
 If you have questions or wish to exercise your privacy rights, contact:  info@ohanasports.net
