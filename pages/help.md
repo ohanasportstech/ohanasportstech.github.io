@@ -31,7 +31,7 @@ Once installed, open the app and follow the on-screen instructions.
   to your game.
 
 - **Left or right-handed selection**: Kai will adjust drills based on
-  what hand you play with so that a forehand is always a forehand and
+  what hand you play with so a forehand is always a forehand and
   backhand is always a backhand.
 
 <br>
@@ -262,12 +262,11 @@ Quick controls allow you to set session options.
 - **🔀 Shuffle** — randomize the shot order. This helps you work on reaction times and readiness. Shuffle is only
   available on selected drills.
 
-- **❤️ Favorite** — save drills in the Home tab so
-  that you can quickly access them later.
+- **❤️ Favorite** — save drills in the Home tab so you can quickly access them later.
 
 **Level Selector**  
 Choose Easy, Medium, Hard, or Advanced. Adjust before starting or while
-the drill is running—the ball machine adapts instantly.
+the drill is running — the ball machine adapts instantly.
 
 - *Easy*: slower, lighter spin, higher net clearance.
 
@@ -312,16 +311,14 @@ in shot details just like you would on the ball machine itself.
 <br><br>
 ## **Subscriptions**
 
-Kai offers flexible subscription options. Subscriptions are managed
-securely through our online checkout. Tapping “Subscribe Online” in the
-app will open your browser to complete signup. Please click here for
-more info.
+Kai offers flexible subscription options, managed
+securely through our online checkout. Tap “Manage Subscription” in the
+app or for more info, see our [Subscription](/pages/subscription/) page.
 
 <br><br>
 ## **Kai Module (Coming Soon)**
 
-The **Kai Module** plugs into your ball machine and unlocks full app
-control.
+The Kai Module is a smart ball machine controller that allows you to control your ball machine from your phone or watch.
 
 - Compatible with **PlayMate iGenie** and **Ace**
 
