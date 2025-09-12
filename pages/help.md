@@ -153,7 +153,7 @@ Currently, the Kai Module works with:
   - The **Start button** on the drill page will be **blue** if
     connected.
 
-  - If not connected, it will say “Searching ...”
+  - If not connected, it will display "Searching..."
 
   - You can also check status by clicking on the User Tile at the top
     right.
