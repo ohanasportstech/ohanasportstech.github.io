@@ -13,6 +13,7 @@ We’re in our Early Access period through the end of 2025, and we want everyone
 
 ---
 
+
 ## Why Subscriptions?
 
 Starting in 2026, Kai will move to a subscription-based model. This helps us:
@@ -22,6 +23,7 @@ Starting in 2026, Kai will move to a subscription-based model. This helps us:
 - **Keep improving the experience** with new features, smarter coaching tools, and better ways to help you reach your tennis goals.
 
 ---
+
 
 ## What to Expect
 
@@ -34,6 +36,7 @@ When we launch subscriptions in 2026, we’ll offer **a few simple, flexible tie
 As we get closer to launch, we’ll share **full details on pricing, features, and club plans** so you can choose the best fit.
 
 ---
+
 
 ## We’re Just Getting Started
 
