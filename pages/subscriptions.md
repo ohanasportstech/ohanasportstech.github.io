@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Subscription
+title: Subscriptions
 permalink: /pages/subscriptions/
 nav_exclude: true
 ---
