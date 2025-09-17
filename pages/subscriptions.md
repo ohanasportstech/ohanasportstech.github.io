@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Subscription
-permalink: /pages/subscription/
-nav_exclude: true
+permalink: /pages/subscriptions/
+nav_exclude: false
 ---
+
 
 ## Early Access: Free Through 2025
 
