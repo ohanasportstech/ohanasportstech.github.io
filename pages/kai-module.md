@@ -5,16 +5,17 @@ permalink: /pages/kai-module/
 nav_exclude: true
 ---
 
-The SmartModule is a smart ball machine controller that allows you to control your ball machine from your phone or watch.
-
+The Kai SmartModule is a Bluetooth controller that allows you to interact with your your ball machine from your phone or watch.
 
 Kai adds modern control and intelligence to these trusted machines, so you can bring your club’s machine to life with cutting-edge features. 
 
 •  Works with Playmate® iGenie and Ace ball machines
 
-•  Simply plug it in and connect to the app to get started.
+•  Simply plug it in, launch the Kai app, and connect to get started.
 
-•  Coming soon - available in just a few months!
+•  Only available at select clubs during our Early Access period. 
+
+•  Will be available to purchase early 2026! 
 
 <br>
 
