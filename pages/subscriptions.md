@@ -2,7 +2,7 @@
 layout: page
 title: Subscription
 permalink: /pages/subscriptions/
-nav_exclude: false
+nav_exclude: true
 ---
 
 <br>
@@ -11,10 +11,6 @@ nav_exclude: false
 Right now, **Kai is completely free to use**.  
 
 We’re in our Early Access period through the end of 2025, and we want everyone who belongs to a participating tennis club in the Pacific North West to be able to try Kai, play with our drills, and give feedback while we continue building something truly special.
-
----
-<br>
-## Why Subscriptions?
 
 Starting in 2026, Kai will move to a subscription-based model. This helps us:
 
