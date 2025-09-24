@@ -17,7 +17,7 @@ Starting in 2026, we will be introducing subscription plans to help us continue 
 - **New pro designed drills** to continuously update our library with fresh, high-quality training content.  
 - **App enhancements** with new features and better ways to help you reach your tennis goals.
 - **Smarter tools** for coaches, pros, and everyone in the community to create and share custom drills.
-
+<br>
 ---
 <br>
 ## What to Expect
@@ -29,7 +29,7 @@ When we launch subscriptions in 2026, we’ll offer **a few simple, flexible tie
 - **Pro** – For coaches, parents, and team captains who want to create custom training plans, assign drills, and share them with students, children, or teammates.
 
 As we get closer to launch, we’ll share **full details on pricing, features, and plans** so you can choose the best fit.
-
+<br>
 ---
 <br>
 ## We’re Just Getting Started
