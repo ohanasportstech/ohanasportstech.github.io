@@ -10,9 +10,9 @@ nav_exclude: true
 
 Right now, **Kai is completely free to use**.  
 
-We’re in our Early Access period through the end of 2025, and we want everyone who belongs to a participating tennis club in the Pacific North West to be able to try Kai, play with our drills, and give feedback while we continue building something truly special.
+We invite everyone who belongs to a participating tennis club in the Pacific Northwest to try Kai, train with our drills, and give feedback - tell us what you think!
 
-Starting in 2026, Kai will move to a subscription-based model. This helps us:
+Starting in 2026, we will be introducing subscription plans to help us continue building something truly special and support our community.
 
 - **Work with professional coaches** to create and continuously update our drill library with fresh, high-quality training content.  
 - **Maintain our cloud platform** that enables us to continuously roll out new drills, lets users design and share custom drills, and enables coaches to manage training programs for their players and teams.  
