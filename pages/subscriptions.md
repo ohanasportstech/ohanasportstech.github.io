@@ -14,9 +14,9 @@ We invite everyone who belongs to a participating tennis club in the Pacific Nor
 
 Starting in 2026, we will be introducing subscription plans to help us continue building something truly special and support our community.
 
-- **Work with professional coaches** to create and continuously update our drill library with fresh, high-quality training content.  
-- **Maintain our cloud platform** that enables us to continuously roll out new drills, lets users design and share custom drills, and enables coaches to manage training programs for their players and teams.  
-- **Keep improving the experience** with new features, smarter coaching tools, and better ways to help you reach your tennis goals.
+- **New pro designed drills** to continuously update our library with fresh, high-quality training content.  
+- **App enhancements** with new features and better ways to help you reach your tennis goals.
+- **Smarter tools** for coaches, pros, and everyone in the community to create and share custom drills.
 
 ---
 <br>
@@ -28,7 +28,7 @@ When we launch subscriptions in 2026, we’ll offer **a few simple, flexible tie
 - **Premium** – For players ready to push their game further with rally-style simulations, advanced drills, and skill-focused training.  
 - **Pro** – For coaches, parents, and team captains who want to create custom training plans, assign drills, and share them with students, children, or teammates.
 
-As we get closer to launch, we’ll share **full details on pricing, features, and club plans** so you can choose the best fit.
+As we get closer to launch, we’ll share **full details on pricing, features, and plans** so you can choose the best fit.
 
 ---
 <br>
