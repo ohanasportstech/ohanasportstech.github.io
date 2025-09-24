@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Subscriptions
-permalink: /pages/subscriptions/
+permalink: /pages/subscription/
 nav_exclude: true
 ---
 
