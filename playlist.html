@@ -1,0 +1,52 @@
+---
+layout: default
+title: Playlist
+description: Import this playlist into the Kai Tennis app
+nav_exclude: true
+---
+
+<div style="text-align: center; padding: 3rem 0;">
+  <img src="/assets/images/AppIcon.png" alt="Ohana Sports" style="width: 120px; height: 120px; margin-bottom: 2rem;">
+  
+  <h1>Open in Kai Tennis</h1>
+  
+  <p style="font-size: 1.2rem; color: #666; margin: 2rem 0;">
+    Tap the button below to import this playlist into your Kai Tennis app.
+  </p>
+  
+  <a href="#" id="openAppLink" style="display: inline-block; background: #007AFF; color: white; padding: 1rem 2rem; border-radius: 8px; text-decoration: none; font-weight: 600; margin-top: 1rem;">
+    Open in App
+  </a>
+  
+  <p style="margin-top: 2rem; color: #999; font-size: 0.9rem;">
+    Don't have the app? <a href="#" id="appStoreLink" style="color: #007AFF;">Download it here</a>
+  </p>
+</div>
+
+<script>
+  // Detect platform
+  const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+  const isAndroid = /android/i.test(userAgent);
+  const isIOS = /iPad|iPhone|iPod/.test(userAgent) && !window.MSStream;
+  
+  // Set app store links
+  const appStoreLink = document.getElementById('appStoreLink');
+  if (isAndroid) {
+    appStoreLink.href = 'https://play.google.com/store/apps/details?id=net.ohanasports.kai';
+  } else {
+    // Default to iOS App Store
+    appStoreLink.href = 'https://apps.apple.com/app/your-app-id';
+  }
+  
+  // Get the playlist ID from the URL query parameter
+  const urlParams = new URLSearchParams(window.location.search);
+  const playlistId = urlParams.get('id');
+  
+  // Update the link to include the playlist ID
+  const link = document.getElementById('openAppLink');
+  if (playlistId) {
+    link.href = window.location.href;
+  } else {
+    link.href = '/';
+  }
+</script>
