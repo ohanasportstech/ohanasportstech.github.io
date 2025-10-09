@@ -1,0 +1,84 @@
+---
+layout: default
+title: Custom Drill
+description: Import this drill into the Kai Tennis app
+nav_exclude: true
+---
+
+<div id="mobileContent" style="text-align: center; padding: 3rem 0;">
+  <img src="/assets/images/AppIcon.png" alt="Ohana Sports" style="width: 120px; height: 120px; margin-bottom: 2rem;">
+  
+  <h1>Open in Kai Tennis</h1>
+  
+  <p style="font-size: 1.2rem; color: #666; margin: 2rem 0;">
+    Tap the button below to import this drill into your Kai Tennis app.
+  </p>
+  
+  <a href="#" id="openAppLink" style="display: inline-block; background: #007AFF; color: white; padding: 1rem 2rem; border-radius: 8px; text-decoration: none; font-weight: 600; margin-top: 1rem;">
+    Open in App
+  </a>
+  
+  <p style="margin-top: 2rem; color: #999; font-size: 0.9rem;">
+    Don't have the app? <a href="#" id="appStoreLink" style="color: #007AFF;">Download it here</a>
+  </p>
+</div>
+
+<div id="desktopContent" style="text-align: center; padding: 3rem 0; display: none;">
+  <img src="/assets/images/AppIcon.png" alt="Ohana Sports" style="width: 120px; height: 120px; margin-bottom: 2rem;">
+  
+  <h1>Kai Tennis</h1>
+  
+  <p style="font-size: 1.2rem; color: #666; margin: 2rem 0;">
+    This drill link is designed to be opened on a mobile device.
+  </p>
+  
+  <p style="font-size: 1rem; color: #999; margin: 2rem 0;">
+    Please open this link on your iOS or Android device to import the drill into the Kai Tennis app.
+  </p>
+  
+  <div style="margin-top: 2rem;">
+    <p style="color: #666; margin-bottom: 1rem;">Download the app:</p>
+    <a href="https://apps.apple.com/app/id6748925788" style="display: inline-block; margin: 0 0.5rem; color: #007AFF; text-decoration: none;">App Store</a>
+    <span style="color: #ccc;">|</span>
+    <a href="https://play.google.com/store/apps/details?id=net.OhanaSports.Kai" style="display: inline-block; margin: 0 0.5rem; color: #007AFF; text-decoration: none;">Google Play</a>
+  </div>
+</div>
+
+<script>
+  // Detect platform
+  const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+  const isAndroid = /android/i.test(userAgent);
+  const isIOS = /iPad|iPhone|iPod/.test(userAgent) && !window.MSStream;
+  const isMobile = isAndroid || isIOS;
+  
+  // Show appropriate content based on platform
+  const mobileContent = document.getElementById('mobileContent');
+  const desktopContent = document.getElementById('desktopContent');
+  
+  if (!isMobile) {
+    // Show desktop message for unsupported platforms
+    mobileContent.style.display = 'none';
+    desktopContent.style.display = 'block';
+  } else {
+    // Mobile device - set up app store links and universal link
+    const appStoreLink = document.getElementById('appStoreLink');
+    if (isAndroid) {
+      appStoreLink.href = 'https://play.google.com/store/apps/details?id=net.OhanaSports.Kai';
+    } else {
+      // iOS App Store
+      appStoreLink.href = 'https://apps.apple.com/app/id6748925788';
+    }
+    
+    // Get the drill ID from the URL query parameter
+    const urlParams = new URLSearchParams(window.location.search);
+    const drillId = urlParams.get('id');
+    
+    // Update the link to include the drill ID
+    const link = document.getElementById('openAppLink');
+    if (drillId) {
+      link.href = window.location.href;
+    } else {
+      link.href = '/';
+    }
+  }
+</script>
