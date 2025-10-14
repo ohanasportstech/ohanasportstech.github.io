@@ -33,6 +33,12 @@ If you purchase hardware or integrate third-party products with the Ohana Sports
 You may upload or submit data, comments, or other materials (“User Content”) through the Service. You retain ownership of your User Content, but you grant Ohana Sports a license to use, store, display, and share it as needed to operate the Service.
 You must not post or submit anything illegal, harmful, offensive, or that violates someone else’s rights.
 
+**6.1 Shared Drills and Playlists**
+
+The Service allows users to share custom drills or playlists with others via a public link. When you choose to share a drill or playlist, the content and associated data become accessible to anyone with that link, even if they do not have an account.
+You are responsible for any data included in a shared drill or playlist, including text, titles, comments, and performance data. Shared content should not include personal or confidential information you do not wish to make public.
+You may revoke access at any time by marking a drill or playlist as private within the App. Once made private again, the shared link will no longer be publicly accessible.
+
 #### 7. Our Content and Technology
 All rights to the Ohana Sports software, visuals, trademarks, and other content are owned by us or our licensors. You agree not to copy, modify, reverse engineer, or use any of our materials in unauthorized ways.
 

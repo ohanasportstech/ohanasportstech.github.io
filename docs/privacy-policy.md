@@ -54,6 +54,11 @@ We do not sell your data. We may share anonymized data with trusted service prov
 
 We may disclose data if required by law or if necessary to protect rights, safety, or legal obligations.
 
+**a. User-Shared Drills and Playlists**
+The App allows users to share custom drills and playlists via a publicly accessible link. When you share a drill or playlist, the associated data—including drill names, notes, and configurations—becomes available to anyone who accesses the link.
+Ohana Sports does not restrict or monitor who accesses such links. We advise users not to include personally identifiable or sensitive information in shared drills or playlists.
+You can make a shared drill or playlist private again at any time, which disables the public link and prevents further access to that data.
+
 #### 5. Your Rights and Choices
 **a. GDPR (European Economic Area residents)**
 
